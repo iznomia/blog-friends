@@ -1,0 +1,6 @@
+- name: Issues to Json
+  uses: xaoxuu/issues2json@1.0.0
+- name: Links Checker
+  uses: xaoxuu/links-checker@1.0.0
+- name: Feed Posts Parser
+  uses: xaoxuu/feed-posts-parser@1.0.0
