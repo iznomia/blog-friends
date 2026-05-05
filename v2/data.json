@@ -1,0 +1,40 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "iznomia",
+      "url": "https://iznomia.github.io",
+      "icon": "https://iznomia.github.io/images/avatar/iznomia.jpg",
+      "snapshot": "",
+      "description": "我们终将从时光归来，为宇宙奏响遗忘的镇魂曲。",
+      "feed": "https://iznomia.github.io/atom.xml",
+      "posts": [
+        {
+          "title": "从一份关于 1644 史观的作业论文引发的一些对于当代思政课的思考",
+          "link": "https://iznomia.github.io/posts/18d12a2e/",
+          "published": "2026-04-30 08:00"
+        },
+        {
+          "title": "一种不存在的记忆 ——《魔法少女ノ魔女裁判》游玩记录",
+          "link": "https://iznomia.github.io/posts/58ecea29/",
+          "published": "2026-04-07 08:00"
+        },
+        {
+          "title": "冬行净月潭",
+          "link": "https://iznomia.github.io/posts/918d2f15/",
+          "published": "2026-04-06 08:00"
+        }
+      ],
+      "issue_number": 1,
+      "labels": [
+        {
+          "name": "博主",
+          "color": "1f1e33",
+          "hue": 243,
+          "saturation": 26,
+          "lightness": 16
+        }
+      ]
+    }
+  ]
+}
