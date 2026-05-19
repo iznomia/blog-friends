@@ -1,0 +1,40 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "iznomia",
+      "url": "https://iznomia.github.io",
+      "icon": "https://iznomia.github.io/images/avatar/iznomia.jpg",
+      "snapshot": "",
+      "description": "我们终将从时光归来，为宇宙奏响遗忘的镇魂曲。",
+      "feed": "https://iznomia.github.io/atom.xml",
+      "posts": [
+        {
+          "title": "橘雪莉表情包生成器",
+          "link": "https://iznomia.com/posts/82d8316f/",
+          "published": "2026-05-13 08:00"
+        },
+        {
+          "title": "2026-05-11(#12)：如同谎言般闪闪发光的一等星",
+          "link": "https://iznomia.com/posts/4e19586d/",
+          "published": "2026-05-04 08:00"
+        },
+        {
+          "title": "从一份关于 1644 史观的作业论文引发的一些对于当代思政课的思考",
+          "link": "https://iznomia.com/posts/18d12a2e/",
+          "published": "2026-04-30 08:00"
+        }
+      ],
+      "issue_number": 1,
+      "labels": [
+        {
+          "name": "博主",
+          "color": "1f1e33",
+          "hue": 243,
+          "saturation": 26,
+          "lightness": 16
+        }
+      ]
+    }
+  ]
+}
